@@ -16,8 +16,8 @@ from rag_engine import RAGEngine
 BASE_DIR = Path(__file__).parent
 STATIC_DIR = BASE_DIR / "static"
 KNOWLEDGE_DIR = BASE_DIR / "knowledge_base"
-HOST = "127.0.0.1"
-PORT = 8000
+HOST = os.getenv("HOST", "0.0.0.0")
+PORT = int(os.getenv("PORT", "8000"))
 
 
 def resolve_app_data_root() -> Path:

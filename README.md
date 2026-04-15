@@ -1,7 +1,7 @@
 # Atlas RAG Assistant
 
 Atlas is a full-stack retrieval-augmented chatbot for exploring private knowledge bases through grounded conversations.
-
+Full-stack RAG assistant with document upload, retrieval, citations, and persistent chat sessions.
 It is built as a portfolio-quality project, not a one-shot demo:
 
 - document ingestion from the UI

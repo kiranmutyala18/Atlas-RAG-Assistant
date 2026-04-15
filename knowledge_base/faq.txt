@@ -1,0 +1,13 @@
+Frequently Asked Questions
+
+What can Acme Cloud automate?
+Acme Cloud can automate ticket routing, task assignments, reminder notifications, escalation rules, and recurring reporting workflows.
+
+Does Acme Cloud support integrations?
+Yes. Acme Cloud supports integrations with email platforms, chat tools, CRM systems, and internal HTTP-based services through webhook connectors.
+
+What security features are available?
+Security features include audit logs, role-based access control, single sign-on for enterprise customers, and environment-level permission settings.
+
+How should the assistant answer questions?
+The assistant should answer only from the retrieved context, cite the source documents it used, and say when the knowledge base does not contain enough information.

@@ -1,0 +1,5 @@
+.codex/
+__pycache__/
+data/
+runtime_data/
+*.pyc
